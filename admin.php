@@ -64,9 +64,6 @@ $stmt->execute();
     $stmt->execute();
     ?>
 
-
-
-
     <div class="assortiment-panel">
         <h2>Assortiment</h2>
         <?php
